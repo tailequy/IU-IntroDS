@@ -1,1 +1,1 @@
-# IU-IntroDS
+# Introduction to Data Science - IU
